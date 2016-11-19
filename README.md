@@ -15,5 +15,4 @@ RNN TEST ERRORS = [ 0.57669082  0.56219807  0.56944444  0.55193237  0.57789855  
   0.54770531  0.56038647  0.5531401   0.55736715  0.5736715   0.54770531
   0.55495169  0.55676329]
 
-
 Now, I need to incorporate Seq2Seq and Recurrent Shop in  this program to tune up the performance at next step.
