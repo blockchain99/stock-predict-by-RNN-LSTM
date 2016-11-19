@@ -1,0 +1,6 @@
+{
+  "name": "Stock-predict-by-rnn-lstm",
+  "tagline": "",
+  "body": "# stock-predict-by-RNN-LSTM\r\n###Karol Dzitkowski 's result is  as follow.(High Frequency Trading Price Prediction \r\n###using LSTM Recursive Neural Networks, Karol Dzitkowski)\r\nRNN avg err = 0 . 5 6 7 3 0 0 7 2 4 6 3 8\r\nepsilon = 0.5, SGD optimizer\r\n\r\n\r\n###After I changed epsilon = 0.9375, optimizer to Adagrad optimizer\r\n###RNN ave err is as follow. \r\n\r\n\r\n2nd RNN AVERAGE ERROR = 0.56443236715\r\nRNN TEST ERRORS = [ 0.57669082  0.56219807  0.56944444  0.55193237  0.57789855  0.57246377\r\n  0.57125604  0.57729469  0.57246377  0.5839372   0.55012077  0.57125604\r\n  0.54770531  0.56038647  0.5531401   0.55736715  0.5736715   0.54770531\r\n  0.55495169  0.55676329]\r\n\r\nNow, I need to incorporate Seq2Seq and Recurrent Shop in  this program to tune up the performance at next step.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
